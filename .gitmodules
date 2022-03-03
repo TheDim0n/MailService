@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/TheDim0n/MailClient.git
+[submodule "sender"]
+	path = sender
+	url = https://github.com/TheDim0n/MailSender.git

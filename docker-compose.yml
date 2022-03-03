@@ -1,0 +1,9 @@
+version: '3.9'
+
+services:
+  sender:
+    image: ghcr.io/thedim0n/mail/sender
+  client:
+    image: ghcr.io/thedim0n/mail/client
+  proxy:
+    image: ghcr.io/thedim0n/mail/proxy
